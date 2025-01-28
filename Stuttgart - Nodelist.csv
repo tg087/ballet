@@ -1,4 +1,4 @@
-id,name,sex,age,Geburtsland,Land,Gründungsjahr
+id,id_name,sex,age,Geburtsland,Land,Gründungsjahr
 ra,Rocio Aleman,1,4,Mexiko,NA,NA
 eb,Elisa Badenes,1,4,Spanien,NA,NA
 mb,Mackenzie Brown,1,2,USA,NA,NA
